@@ -1,3 +1,10 @@
+html, body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #dfdfdf;
+    margin: 0;
+    padding: 0;
+}
+
 
 header {
     font-family: 'Courier New', Courier, monospace;
@@ -6,11 +13,6 @@ header {
     padding: 0;  
 }
 
-body {
-
-}
-
-div {
-    margin: 100;
-    padding: 0;
+h1 {
+    margin: 0;
 }
